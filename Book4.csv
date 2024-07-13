@@ -1,0 +1,456 @@
+log_message,is_ransomware
+Network connection established,0
+Security breach detected,1
+Detected suspicious file: abc.exe,1
+Clean log,0
+System update completed,0
+Intrusion attempt detected,1
+Critical error in application XYZ,1
+Backup successful,0
+Invalid login attempt from IP: 192.168.1.1,1
+Disk space low. Cleanup initiated.,0
+Server restart due to system update,0
+User account locked due to multiple failed login attempts,1
+Database backup completed,0
+Network bandwidth usage exceeded threshold,1
+Firewall rule updated,0
+Application crash reported,1
+Disk I/O error reported,1
+SSL certificate expired,1
+Unauthorized access detected,1
+High CPU usage detected,1
+Critical system process stopped unexpectedly,1
+Invalid user login attempt detected,1
+File transfer complete,0
+Backup server offline,1
+Account locked due to multiple failed login attempts,1
+Network bandwidth usage exceeded threshold,1
+Software update available. Restart required,0
+DNS server not responding,1
+Unauthorized access detected,1
+System memory usage high,1
+Network printer offline,1
+Server time synchronized with NTP server,0
+Application crash reported,1
+Disk I/O error reported,1
+SSL certificate expired,1
+Unauthorized access detected,1
+High CPU usage detected,1
+Critical system process stopped unexpectedly,1
+Invalid user login attempt detected,1
+File transfer complete,0
+Backup server offline,1
+Account locked due to multiple failed login attempts,1
+Network bandwidth usage exceeded threshold,1
+Software update available. Restart required,0
+DNS server not responding,1
+Unauthorized access detected,1
+System memory usage high,1
+Network printer offline,1
+Server time synchronized with NTP server,0
+Application crash reported,1
+Disk I/O error reported,1
+SSL certificate expired,1
+Unauthorized access detected,1
+High CPU usage detected,1
+Critical system process stopped unexpectedly,1
+Invalid user login attempt detected,1
+File transfer complete,0
+Backup server offline,1
+Account locked due to multiple failed login attempts,1
+Network bandwidth usage exceeded threshold,1
+Software update available. Restart required,0
+DNS server not responding,1
+Unauthorized access detected,1
+System memory usage high,1
+Network printer offline,1
+Server time synchronized with NTP server,0
+Application crash reported,1
+Disk I/O error reported,1
+SSL certificate expired,1
+Unauthorized access detected,1
+High CPU usage detected,1
+Critical system process stopped unexpectedly,1
+Invalid user login attempt detected,1
+File transfer complete,0
+Backup server offline,1
+Account locked due to multiple failed login attempts,1
+Network bandwidth usage exceeded threshold,1
+Software update available. Restart required,0
+DNS server not responding,1
+Unauthorized access detected,1
+System memory usage high,1
+Network printer offline,1
+Server time synchronized with NTP server,0
+Application crash reported,1
+Disk I/O error reported,1
+SSL certificate expired,1
+Unauthorized access detected,1
+High CPU usage detected,1
+Critical system process stopped unexpectedly,1
+Invalid user login attempt detected,1
+File transfer complete,0
+Backup server offline,1
+Account locked due to multiple failed login attempts,1
+Network bandwidth usage exceeded threshold,1
+Software update available. Restart required,0
+DNS server not responding,1
+Unauthorized access detected,1
+System memory usage high,1
+Network printer offline,1
+Server time synchronized with NTP server,0
+Application crash reported,1
+Disk I/O error reported,1
+SSL certificate expired,1
+Unauthorized access detected,1
+High CPU usage detected,1
+Critical system process stopped unexpectedly,1
+Invalid user login attempt detected,1
+File transfer complete,0
+Backup server offline,1
+Account locked due to multiple failed login attempts,1
+Network bandwidth usage exceeded threshold,1
+Software update available. Restart required,0
+DNS server not responding,1
+Unauthorized access detected,1
+System memory usage high,1
+Network printer offline,1
+Server time synchronized with NTP server,0
+Application crash reported,1
+Disk I/O error reported,1
+SSL certificate expired,1
+Unauthorized access detected,1
+High CPU usage detected,1
+Critical system process stopped unexpectedly,1
+Invalid user login attempt detected,1
+File transfer complete,0
+Backup server offline,1
+Account locked due to multiple failed login attempts,1
+Network bandwidth usage exceeded threshold,1
+Software update available. Restart required,0
+DNS server not responding,1
+Unauthorized access detected,1
+System memory usage high,1
+Network printer offline,1
+Server time synchronized with NTP server,0
+Application crash reported,1
+Disk I/O error reported,1
+SSL certificate expired,1
+Unauthorized access detected,1
+High CPU usage detected,1
+Critical system process stopped unexpectedly,1
+Invalid user login attempt detected,1
+File transfer complete,0
+Backup server offline,1
+Account locked due to multiple failed login attempts,1
+Network bandwidth usage exceeded threshold,1
+Software update available. Restart required,0
+DNS server not responding,1
+Unauthorized access detected,1
+System memory usage high,1
+Network printer offline,1
+Server time synchronized with NTP server,0
+Application crash reported,1
+Disk I/O error reported,1
+SSL certificate expired,1
+Unauthorized access detected,1
+High CPU usage detected,1
+Critical system process stopped unexpectedly,1
+Invalid user login attempt detected,1
+File transfer complete,0
+Backup server offline,1
+Account locked due to multiple failed login attempts,1
+Network bandwidth usage exceeded threshold,1
+Software update available. Restart required,0
+DNS server not responding,1
+Unauthorized access detected,1
+System memory usage high,1
+Network printer offline,1
+Server time synchronized with NTP server,0
+Application crash reported,1
+Disk I/O error reported,1
+SSL certificate expired,1
+Unauthorized access detected,1
+High CPU usage detected,1
+Critical system process stopped unexpectedly,1
+Invalid user login attempt detected,1
+File transfer complete,0
+Backup server offline,1
+Account locked due to multiple failed login attempts,1
+Network bandwidth usage exceeded threshold,1
+Software update available. Restart required,0
+DNS server not responding,1
+Unauthorized access detected,1
+System memory usage high,1
+Network printer offline,1
+Server time synchronized with NTP server,0
+Application crash reported,1
+Disk I/O error reported,1
+SSL certificate expired,1
+Unauthorized access detected,1
+High CPU usage detected,1
+Critical system process stopped unexpectedly,1
+Invalid user login attempt detected,1
+File transfer complete,0
+Backup server offline,1
+Account locked due to multiple failed login attempts,1
+Network bandwidth usage exceeded threshold,1
+Software update available. Restart required,0
+DNS server not responding,1
+Unauthorized access detected,1
+System memory usage high,1
+Network printer offline,1
+Server time synchronized with NTP server,0
+Application crash reported,1
+Disk I/O error reported,1
+SSL certificate expired,1
+Unauthorized access detected,1
+High CPU usage detected,1
+Critical system process stopped unexpectedly,1
+Invalid user login attempt detected,1
+File transfer complete,0
+Backup server offline,1
+Account locked due to multiple failed login attempts,1
+Network bandwidth usage exceeded threshold,1
+Software update available. Restart required,0
+DNS server not responding,1
+Unauthorized access detected,1
+System memory usage high,1
+Network printer offline,1
+Server time synchronized with NTP server,0
+Application crash reported,1
+Disk I/O error reported,1
+SSL certificate expired,1
+Unauthorized access detected,1
+High CPU usage detected,1
+Critical system process stopped unexpectedly,1
+Invalid user login attempt detected,1
+File transfer complete,0
+Backup server offline,1
+Account locked due to multiple failed login attempts,1
+Network bandwidth usage exceeded threshold,1
+Software update available. Restart required,0
+DNS server not responding,1
+Unauthorized access detected,1
+System memory usage high,1
+Network printer offline,1
+Server time synchronized with NTP server,0
+Application crash reported,1
+Disk I/O error reported,1
+SSL certificate expired,1
+Unauthorized access detected,1
+High CPU usage detected,1
+Critical system process stopped unexpectedly,1
+Invalid user login attempt detected,1
+File transfer complete,0
+Backup server offline,1
+Account locked due to multiple failed login attempts,1
+Network bandwidth usage exceeded threshold,1
+Software update available. Restart required,0
+DNS server not responding,1
+Unauthorized access detected,1
+System memory usage high,1
+Network printer offline,1
+Server time synchronized with NTP server,0
+Application crash reported,1
+Disk I/O error reported,1
+SSL certificate expired,1
+Unauthorized access detected,1
+High CPU usage detected,1
+Critical system process stopped unexpectedly,1
+Invalid user login attempt detected,1
+File transfer complete,0
+Backup server offline,1
+Account locked due to multiple failed login attempts,1
+Network bandwidth usage exceeded threshold,1
+Software update available. Restart required,0
+DNS server not responding,1
+Unauthorized access detected,1
+System memory usage high,1
+Network printer offline,1
+Server time synchronized with NTP server,0
+Application crash reported,1
+Disk I/O error reported,1
+SSL certificate expired,1
+Unauthorized access detected,1
+High CPU usage detected,1
+Critical system process stopped unexpectedly,1
+Invalid user login attempt detected,1
+File transfer complete,0
+Backup server offline,1
+Account locked due to multiple failed login attempts,1
+Network bandwidth usage exceeded threshold,1
+Software update available. Restart required,0
+DNS server not responding,1
+Unauthorized access detected,1
+System memory usage high,1
+Network printer offline,1
+Server time synchronized with NTP server,0
+Application crash reported,1
+Disk I/O error reported,1
+SSL certificate expired,1
+Unauthorized access detected,1
+High CPU usage detected,1
+Critical system process stopped unexpectedly,1
+Invalid user login attempt detected,1
+File transfer complete,0
+Backup server offline,1
+Account locked due to multiple failed login attempts,1
+Network bandwidth usage exceeded threshold,1
+Software update available. Restart required,0
+DNS server not responding,1
+Unauthorized access detected,1
+System memory usage high,1
+Network printer offline,1
+Server time synchronized with NTP server,0
+Application crash reported,1
+Disk I/O error reported,1
+SSL certificate expired,1
+Unauthorized access detected,1
+High CPU usage detected,1
+Critical system process stopped unexpectedly,1
+Invalid user login attempt detected,1
+File transfer complete,0
+Backup server offline,1
+Account locked due to multiple failed login attempts,1
+Network bandwidth usage exceeded threshold,1
+Software update available. Restart required,0
+DNS server not responding,1
+Unauthorized access detected,1
+System memory usage high,1
+Network printer offline,1
+Server time synchronized with NTP server,0
+Application crash reported,1
+Disk I/O error reported,1
+SSL certificate expired,1
+Unauthorized access detected,1
+High CPU usage detected,1
+Critical system process stopped unexpectedly,1
+Invalid user login attempt detected,1
+File transfer complete,0
+Backup server offline,1
+Account locked due to multiple failed login attempts,1
+Network bandwidth usage exceeded threshold,1
+Software update available. Restart required,0
+DNS server not responding,1
+Unauthorized access detected,1
+System memory usage high,1
+Network printer offline,1
+Server time synchronized with NTP server,0
+Application crash reported,1
+Disk I/O error reported,1
+SSL certificate expired,1
+Unauthorized access detected,1
+High CPU usage detected,1
+Critical system process stopped unexpectedly,1
+Invalid user login attempt detected,1
+File transfer complete,0
+Backup server offline,1
+Account locked due to multiple failed login attempts,1
+Network bandwidth usage exceeded threshold,1
+Software update available. Restart required,0
+DNS server not responding,1
+Unauthorized access detected,1
+System memory usage high,1
+Network printer offline,1
+Server time synchronized with NTP server,0
+[2024-05-10 08:23:45] System status: clean log,0
+[2024-05-10 10:15:32] Detected suspicious activity: is Ransomware,0
+[2024-05-10 12:45:21] Security scan complete: clean log,0
+[2024-05-10 15:30:10] Alert: Possible ransomware attack detected!,1
+[2024-05-10 18:02:56] Log analysis: clean log,0
+[2024-05-10 20:11:47] Warning: Detected malicious software - is Ransomware,1
+[2024-05-10 22:55:33] System check: clean log,0
+[2024-05-10 23:59:59] Suspicious file found: is Ransomware,1
+[2024-05-11 01:30:45] Security breach detected: is Ransomware,1
+[2024-05-11 03:15:32] Firewall status: clean log,0
+[2024-05-11 06:45:21] Intrusion attempt detected: is Ransomware,1
+[2024-05-11 08:30:10] System scan: clean log,0
+[2024-05-11 10:02:56] Security update installed: clean log,0
+[2024-05-11 12:11:47] Potential threat detected: is Ransomware,1
+[2024-05-11 14:55:33] System rebooted: clean log,0
+[2024-05-11 16:59:59] Malware scan complete: clean log,0
+[2024-05-11 18:30:45] Network breach detected: is Ransomware,0
+[2024-05-11 20:15:32] File integrity check: clean log,0
+[2024-05-11 22:45:21] Security alert: is Ransomware,1
+[2024-05-12 00:30:10] Log maintenance: clean log,0
+[2024-05-12 02:02:56] Security check: clean log,0
+[2024-05-12 04:11:47] Warning: Potential ransomware activity - is Ransomware,1
+[2024-05-12 06:55:33] System status: clean log,1
+[2024-05-12 08:59:59] Detected suspicious file: is Ransomware,1
+[2024-05-12 10:30:45] Security breach: is Ransomware,1
+[2024-05-12 12:15:32] System scan complete: clean log,0
+[2024-05-12 14:45:21] Alert: Possible security threat - is Ransomware,1
+[2024-05-12 16:30:10] Log analysis: clean log,0
+[2024-05-12 18:02:56] Warning: Detected malicious software - is Ransomware,1
+[2024-05-12 20:11:47] System check: clean log,0
+[2024-05-12 22:55:33] Security update installed: clean log,0
+[2024-05-13 00:59:59] Suspicious file found: is Ransomware,1
+[2024-05-13 02:30:45] Security breach detected: is Ransomware,1
+[2024-05-13 04:15:32] Firewall status: clean log,0
+[2024-05-13 06:45:21] Intrusion attempt detected: is Ransomware,1
+[2024-05-13 08:30:10] System scan: clean log,0
+[2024-05-13 10:02:56] Security update installed: clean log,0
+[2024-05-13 12:11:47] Potential threat detected: is Ransomware,1
+[2024-05-13 14:55:33] System rebooted: clean log,0
+[2024-05-13 16:59:59] Malware scan complete: clean log,0
+[2024-05-13 18:30:45] Network breach detected: is Ransomware,1
+[2024-05-13 20:15:32] File integrity check: clean log,0
+[2024-05-13 22:45:21] Security alert: is Ransomware,1
+[2024-05-14 00:30:10] Log maintenance: clean log,0
+[2024-05-14 02:02:56] Security check: clean log,0
+[2024-05-14 04:11:47] Warning: Potential ransomware activity - is Ransomware,1
+[2024-05-14 06:55:33] System status: clean log,0
+[2024-05-14 08:59:59] Detected suspicious file: is Ransomware,1
+[2024-05-14 10:30:45] Security breach: is Ransomware,1
+[2024-05-14 12:15:32] System scan complete: clean log,0
+[2024-05-14 14:45:21] Alert: Possible security threat - is Ransomware,1
+[2024-05-14 16:30:10] Log analysis: clean log,0
+[2024-05-14 18:02:56] Warning: Detected malicious software - is Ransomware,1
+[2024-05-14 20:11:47] System check: clean log,0
+[2024-05-14 22:55:33] Security update installed: clean log,1
+[2024-05-15 00:59:59] Suspicious file found: is Ransomware,1
+[2024-05-15 02:30:45] Security breach detected: is Ransomware,1
+[2024-05-15 04:15:32] Firewall status: clean log,0
+[2024-05-15 06:45:21] Intrusion attempt detected: is Ransomware,1
+[2024-05-15 08:30:10] System scan: clean log,0
+[2024-05-15 10:02:56] Security update installed: clean log,0
+[2024-05-15 12:11:47] Potential threat detected: is Ransomware,1
+[2024-05-15 14:55:33] System rebooted: clean log,0
+[2024-05-15 16:59:59] Malware scan complete: clean log,0
+[2024-05-15 18:30:45] Network breach detected: is Ransomware,1
+[2024-05-15 20:15:32] File integrity check: clean log,1
+[2024-05-15 22:45:21] Security alert: is Ransomware,1
+[2024-05-16 00:30:10] Log maintenance: clean log,0
+[2024-05-16 02:02:56] Security check: clean log,0
+[2024-05-16 04:11:47] Warning: Potential ransomware activity - is Ransomware,1
+[2024-05-16 06:55:33] System status: clean log,0
+[2024-05-16 08:59:59] Detected suspicious file: is Ransomware,1
+[2024-05-16 10:30:45] Security breach: is Ransomware,1
+[2024-05-16 12:15:32] System scan complete: clean log,0
+[2024-05-16 14:45:21] Alert: Possible security threat - is Ransomware,1
+[2024-05-16 16:30:10] Log analysis: clean log,0
+[2024-05-16 18:02:56] Warning: Detected malicious software - is Ransomware,1
+[2024-05-16 20:11:47] System check: clean log,0
+[2024-05-16 22:55:33] Security update installed: clean log,0
+[2024-05-17 00:59:59] Suspicious file found: is Ransomware,1
+[2024-05-17 02:30:45] Security breach detected: is Ransomware,1
+[2024-05-17 04:15:32] Firewall status: clean log,0
+[2024-05-17 06:45:21] Intrusion attempt detected: is Ransomware,1
+[2024-05-17 08:30:10] System scan: clean log,0
+[2024-05-17 10:02:56] Security update installed: clean log,0
+[2024-05-17 12:11:47] Potential threat detected: is Ransomware,1
+[2024-05-17 14:55:33] System rebooted: clean log,0
+[2024-05-17 16:59:59] Malware scan complete: clean log,0
+[2024-05-17 18:30:45] Network breach detected: is Ransomware,1
+[2024-05-17 20:15:32] File integrity check: clean log,0
+[2024-05-17 22:45:21] Security alert: is Ransomware,0
+[2024-05-18 00:30:10] Log maintenance: clean log,0
+[2024-05-18 02:02:56] Security check: clean log,0
+[2024-05-18 04:11:47] Warning: Potential ransomware activity - is Ransomware,1
+[2024-05-18 06:55:33] System status: clean log,0
+[2024-05-18 08:59:59] Detected suspicious file: is Ransomware,1
+[2024-05-18 10:30:45] Security breach: is Ransomware,1
+[2024-05-18 12:15:32] System scan complete: clean log,0
+[2024-05-18 14:45:21] Alert: Possible security threat - is Ransomware,1
+[2024-05-18 16:30:10] Log analysis: clean log,0
